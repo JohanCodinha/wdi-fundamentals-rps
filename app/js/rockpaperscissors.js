@@ -1,5 +1,6 @@
 ////////////////////////////////////////////////
 /*   Provided Code - Please Don't Edit   */
+/*   Johan Codinha                       */
 ////////////////////////////////////////////////
 'use strict';
 function getInput() {
